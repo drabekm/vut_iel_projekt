@@ -1,0 +1,319 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.12)  13 DEC 2018 14:29
+entering extended mode
+**./xdrabe08.tex
+(xdrabe08.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(C:\Users\matej\AppData\Roaming\MiKTeX\2.9\tex\latex\systeme\systeme.sty
+(C:\Users\matej\AppData\Roaming\MiKTeX\2.9\tex\latex\xstring\xstring.sty
+(C:\Users\matej\AppData\Roaming\MiKTeX\2.9\tex\generic\xstring\xstring.tex
+\@xs@message=\write3
+\integerpart=\count100
+\decimalpart=\count101
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(C:\Users\matej\AppData\Roaming\MiKTeX\2.9\tex\generic\systeme\systeme.tex
+\SYS@systemecode=\toks20
+\SYS@systempreamble=\toks21
+\SYSeqnum=\count102
+)
+Package: systeme 2018/01/01 v0.31 Mise en forme de systemes d'equations (CT)
+)
+(xdrabe08.aux)
+\openout1 = `xdrabe08.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\matej\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen115
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks23
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<./obrazky/fit.png, id=1, 536.0025pt x 180.675pt>
+File: ./obrazky/fit.png Graphic file (type png)
+<use ./obrazky/fit.png>
+Package pdftex.def Info: ./obrazky/fit.png  used on input line 11.
+(pdftex.def)             Requested size: 360.0pt x 121.34659pt.
+ [1
+
+{C:/Users/matej/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./obrazky/f
+it.png>]
+<./obrazky/priklad1_zadani.png, id=10, 298.11375pt x 206.57175pt>
+File: ./obrazky/priklad1_zadani.png Graphic file (type png)
+<use ./obrazky/priklad1_zadani.png>
+Package pdftex.def Info: ./obrazky/priklad1_zadani.png  used on input line 37.
+(pdftex.def)             Requested size: 288.0011pt x 199.57687pt.
+<./obrazky/priklad1_oznaceniBodu.png, id=12, 298.11375pt x 206.57175pt>
+File: ./obrazky/priklad1_oznaceniBodu.png Graphic file (type png)
+<use ./obrazky/priklad1_oznaceniBodu.png>
+Package pdftex.def Info: ./obrazky/priklad1_oznaceniBodu.png  used on input lin
+e 40.
+(pdftex.def)             Requested size: 288.0011pt x 199.57687pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--42
+
+ []
+
+[1 <./obrazky/priklad1_zadani.png> <./obrazky/priklad1_oznaceniBodu.png>]
+<./obrazky/priklad1_transfigurace.png, id=23, 423.38174pt x 361.35pt>
+File: ./obrazky/priklad1_transfigurace.png Graphic file (type png)
+<use ./obrazky/priklad1_transfigurace.png>
+Package pdftex.def Info: ./obrazky/priklad1_transfigurace.png  used on input li
+ne 46.
+(pdftex.def)             Requested size: 288.0011pt x 245.80296pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[2 <./obrazky/priklad1_transfigurace.png>]
+<./obrazky/priklad1_zjednoduseni1.png, id=28, 498.06075pt x 310.761pt>
+File: ./obrazky/priklad1_zjednoduseni1.png Graphic file (type png)
+<use ./obrazky/priklad1_zjednoduseni1.png>
+Package pdftex.def Info: ./obrazky/priklad1_zjednoduseni1.png  used on input li
+ne 52.
+(pdftex.def)             Requested size: 288.0011pt x 179.70567pt.
+<./obrazky/priklad1_zjednoduseni2.png, id=29, 514.92375pt x 308.95425pt>
+File: ./obrazky/priklad1_zjednoduseni2.png Graphic file (type png)
+<use ./obrazky/priklad1_zjednoduseni2.png>
+Package pdftex.def Info: ./obrazky/priklad1_zjednoduseni2.png  used on input li
+ne 57.
+(pdftex.def)             Requested size: 288.0011pt x 172.80577pt.
+ [3 <./obrazky/priklad1_zjednoduseni1.png> <./obrazky/priklad1_zjednoduseni2.pn
+g>]
+<./obrazky/priklad1_zjednoduseni3.png, id=35, 379.4175pt x 286.06876pt>
+File: ./obrazky/priklad1_zjednoduseni3.png Graphic file (type png)
+<use ./obrazky/priklad1_zjednoduseni3.png>
+Package pdftex.def Info: ./obrazky/priklad1_zjednoduseni3.png  used on input li
+ne 60.
+(pdftex.def)             Requested size: 288.0011pt x 217.14824pt.
+ [4 <./obrazky/priklad1_zjednoduseni3.png>]
+<./obrazky/priklad2_zadani.png, id=40, 233.07076pt x 243.91125pt>
+File: ./obrazky/priklad2_zadani.png Graphic file (type png)
+<use ./obrazky/priklad2_zadani.png>
+Package pdftex.def Info: ./obrazky/priklad2_zadani.png  used on input line 76.
+(pdftex.def)             Requested size: 251.9989pt x 263.7254pt.
+ [5 <./obrazky/priklad2_zadani.png>]
+<./obrazky/priklad2_Ri.png, id=45, 268.6035pt x 188.50426pt>
+File: ./obrazky/priklad2_Ri.png Graphic file (type png)
+<use ./obrazky/priklad2_Ri.png>
+Package pdftex.def Info: ./obrazky/priklad2_Ri.png  used on input line 80.
+(pdftex.def)             Requested size: 251.9989pt x 176.8546pt.
+<./obrazky/priklad2_Ui.png, id=46, 387.24675pt x 260.172pt>
+File: ./obrazky/priklad2_Ui.png Graphic file (type png)
+<use ./obrazky/priklad2_Ui.png>
+Package pdftex.def Info: ./obrazky/priklad2_Ui.png  used on input line 83.
+(pdftex.def)             Requested size: 251.9989pt x 169.30827pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
+
+ []
+
+[6 <./obrazky/priklad2_Ri.png> <./obrazky/priklad2_Ui.png>]
+<./obrazky/priklad2_nahrazeni.png, id=56, 206.57175pt x 202.95825pt>
+File: ./obrazky/priklad2_nahrazeni.png Graphic file (type png)
+<use ./obrazky/priklad2_nahrazeni.png>
+Package pdftex.def Info: ./obrazky/priklad2_nahrazeni.png  used on input line 1
+12.
+(pdftex.def)             Requested size: 251.9989pt x 247.5994pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+[7 <./obrazky/priklad2_nahrazeni.png>] (xdrabe08.aux) ) 
+Here is how much of TeX's memory you used:
+ 2503 strings out of 492970
+ 35514 string characters out of 3135854
+ 103497 words of memory out of 3000000
+ 6346 multiletter control sequences out of 15000+200000
+ 8860 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,26p,300b,830s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on xdrabe08.pdf (8 pages, 247512 bytes).
+PDF statistics:
+ 96 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

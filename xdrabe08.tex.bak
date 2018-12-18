@@ -109,4 +109,19 @@ Vypočítáme $I_B$ metodou smyčkových proudů:\\
 $$3873.6363I_B = - 100$$
 $$I_B = 0.02581A$$
 $$U_i = U_2 = R_2 * I_B = 310 * 0.02581 = 8.00281V $$
+\includegraphics[width=0.7\linewidth]{priklad2_nahrazeni.png}\\
+$$I_i = \frac{U_i}{R_i + R_1} = \frac{8.00281}{220.9141 + 50} = 0.02964A$$
+$$U_1 = R_1 * I_i = 1.48200V$$
+$$I_1 = \frac{U_1}{R_1} = \frac{1.48200}{50} = 0.02964A$$
+\section*{3.B}
+Zadání:\\
+$U = 150V$\\
+$I_1 = 0.7A$
+$I_2 = 0.8A$\\
+$R_1 = 49\Omega$
+$R_2 = 45\Omega$
+$R_3 = 61\Omega$
+$R_4 = 34\Omega$
+$R_5 = 34\Omega$\\
+\includegraphics[width=0.9\linewidth]{priklad3_zadani.png}\\
 \end{document}
